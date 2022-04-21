@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="next_multi.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="calptr.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="dereference.c">
+    <ClCompile Include="neighborvar.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
